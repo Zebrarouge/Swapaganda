@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<html><head><meta charset="utf-8"><title>Privacy Policy</title></head><body>
-  <h1>Swapaganda Privacy Policy</h1>
-  <p>
-    Swapaganda does not collect, transmit, or store any personally‑identifiable information or browsing data off your device.  
-    All word‑swap settings are saved locally via <code>chrome.storage.local</code> and never shared with any third party.
-  </p>
-</body></html>
